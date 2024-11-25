@@ -2,7 +2,9 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Data anaylytics
 - 💞️ I’m looking to collaborate on data science
-- 📫 How to reach me @ ogundipedaniel1@gmail.com
+- 📫 How to reach me @ ogundipedaniel1@gmail.com, www.linkedin.com/in/
+ogundipe-daniel-103373292
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
